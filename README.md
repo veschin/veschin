@@ -9,3 +9,6 @@ I love
 -   🐙 Emacs
 -   🤝 Clojure
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veschin&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=veschin.veschin)

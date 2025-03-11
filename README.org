@@ -1,8 +1,0 @@
-[[file:banner.png][banner]]
-
-* Hi there 👋
-- 📹 [[https://www.youtube.com/@lambdaenjoyer9152][My youtube channel]]
-I love
-- 🐧 Linux
-- 🐙 Emacs
-- 🤝 Clojure

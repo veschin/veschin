@@ -2,9 +2,10 @@
 
 > *Value of everything and Cost of nothing*
 
-Started coding in 2016. Tried everything from Python to Haskell.
-Found Clojure in 2020, first true love, probably for life.
-Now building CLI tools, DSLs, and teaching others along the way.
+Started coding in 2016.\
+Tried everything from Python to Haskell.\
+Found Clojure in 2020, first true love, probably for life.\
+Now building CLI tools, DSLs, and teaching others along the way.\
 Linux (Arch btw). Doom Emacs.
 
 <p align="center">

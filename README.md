@@ -11,16 +11,18 @@ Building CLI tools, DSLs, and educational content.
 
 </p>
 
-<p align="center">
-
-![Clojure](https://img.shields.io/badge/Clojure-212529?style=for-the-badge&logo=clojure&logoColor=9BB1FF)
-![Go](https://img.shields.io/badge/Go-212529?style=for-the-badge&logo=go&logoColor=9BB1FF)
-![Python](https://img.shields.io/badge/Python-212529?style=for-the-badge&logo=python&logoColor=9BB1FF)
-![Emacs](https://img.shields.io/badge/Emacs-212529?style=for-the-badge&logo=gnuemacs&logoColor=9BB1FF)
-![Linux](https://img.shields.io/badge/Linux-212529?style=for-the-badge&logo=linux&logoColor=9BB1FF)
-![Docker](https://img.shields.io/badge/Docker-212529?style=for-the-badge&logo=docker&logoColor=9BB1FF)
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Clojure-212529?style=for-the-badge&logo=clojure&logoColor=9BB1FF" height="36"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Go-212529?style=for-the-badge&logo=go&logoColor=9BB1FF" height="36"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Python-212529?style=for-the-badge&logo=python&logoColor=9BB1FF" height="36"/></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Emacs-212529?style=for-the-badge&logo=gnuemacs&logoColor=9BB1FF" height="36"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Linux-212529?style=for-the-badge&logo=linux&logoColor=9BB1FF" height="36"/></td>
+    <td align="center" width="96"><img src="https://img.shields.io/badge/Docker-212529?style=for-the-badge&logo=docker&logoColor=9BB1FF" height="36"/></td>
+  </tr>
+</table>
 
 ---
 

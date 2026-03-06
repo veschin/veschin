@@ -35,7 +35,7 @@ Linux (Arch btw). Doom Emacs.
   </a>
 </p>
 
-**[GoLeM](https://github.com/veschin/GoLeM)** -One wizard. Unlimited golems. Zero Anthropic API costs.\
+**[GoLeM](https://github.com/veschin/GoLeM)** - One wizard. Unlimited golems. Zero Anthropic API costs.\
 CLI for managing distributed Claude Code agents via Z.AI. `Go`
 
 ---
@@ -46,7 +46,7 @@ CLI for managing distributed Claude Code agents via Z.AI. `Go`
   </a>
 </p>
 
-**[PTSD](https://github.com/veschin/PTSD)** -PRD → Seed → BDD → Tests → Implementation.\
+**[PTSD](https://github.com/veschin/PTSD)** - PRD -> Seed -> BDD -> Tests -> Implementation.\
 Structured AI development pipeline enforcer. `Go`
 
 ---
@@ -57,7 +57,7 @@ Structured AI development pipeline enforcer. `Go`
   </a>
 </p>
 
-**[nibelung-theme](https://github.com/veschin/nibelung-theme)** -Minimalist Emacs color scheme.\
+**[nibelung-theme](https://github.com/veschin/nibelung-theme)** - Minimalist Emacs color scheme.\
 Cool gray tones and subtle blue accents, inspired by the Nebelung cat.\
 Also available for [VSCode](https://github.com/veschin/nibelung-theme-vscode) · [Neovim](https://github.com/veschin/nibelung-theme-vim) · [SDDM](https://github.com/veschin/nibelung-sddm-theme)
 
@@ -69,12 +69,12 @@ Also available for [VSCode](https://github.com/veschin/nibelung-theme-vscode) ·
   </a>
 </p>
 
-**[datatwist](https://github.com/veschin/datatwist)** -A functional data processing language on Clojure/JVM.\
+**[datatwist](https://github.com/veschin/datatwist)** - A functional data processing language on Clojure/JVM.\
 Pipe-first semantics, pattern matching, nil-safe field access. `Clojure`
 
 ---
 
-**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** -[D2](https://d2lang.com/) diagrams in Confluence 7.\
+**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** - [D2](https://d2lang.com/) diagrams in Confluence 7.\
 A niche toolset for teams stuck on older Confluence (v7) who want modern diagram-as-code.\
 The server (Clojure) renders D2 markup via a VTL macro.\
 The browser extension adds a live D2 editor directly inside the Confluence page editor.\
@@ -83,7 +83,7 @@ Install: [Firefox](https://addons.mozilla.org/ru/firefox/addon/d2-lang-editor-fo
 
 ---
 
-**[workshops](https://github.com/veschin/workshops)** -Educational materials.\
+**[workshops](https://github.com/veschin/workshops)** - Educational materials.\
 AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.
 
 ---

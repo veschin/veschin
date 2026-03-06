@@ -74,6 +74,12 @@ Pipe-first semantics, pattern matching, nil-safe field access. `Clojure`
 
 ---
 
+**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** — D2 diagrams in Confluence 7.\
+Clojure-based render server + browser extension for drawing D2 inside Confluence VTL macros.\
+Install: [Firefox](https://addons.mozilla.org/ru/firefox/addon/d2-lang-editor-for-confluence/) · [Chrome](https://chromewebstore.google.com/detail/d2-diagram-editor-for-con/jphdphgandbnobldmipnjimnndpdjdch)
+
+---
+
 **[workshops](https://github.com/veschin/workshops)** — Educational materials.\
 AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.
 

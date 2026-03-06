@@ -74,8 +74,11 @@ Pipe-first semantics, pattern matching, nil-safe field access. `Clojure`
 
 ---
 
-**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** — D2 diagrams in Confluence 7.\
-Clojure-based render server + browser extension for drawing D2 inside Confluence VTL macros.\
+**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** — [D2](https://d2lang.com/) diagrams in Confluence 7.\
+A niche toolset for teams stuck on older Confluence (v7) who want modern diagram-as-code.\
+The server (Clojure) renders D2 markup via a VTL macro.\
+The browser extension adds a live D2 editor directly inside the Confluence page editor.\
+Write D2, hit render, get SVG. No PlantUML, no draw.io, no exporting images by hand.\
 Install: [Firefox](https://addons.mozilla.org/ru/firefox/addon/d2-lang-editor-for-confluence/) · [Chrome](https://chromewebstore.google.com/detail/d2-diagram-editor-for-con/jphdphgandbnobldmipnjimnndpdjdch)
 
 ---

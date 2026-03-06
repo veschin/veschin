@@ -58,7 +58,8 @@ Structured AI development pipeline enforcer. `Go`
 </p>
 
 **[nibelung-theme](https://github.com/veschin/nibelung-theme)** — Minimalist Emacs color scheme.\
-Cool gray tones and subtle blue accents, inspired by the Nebelung cat. `Emacs Lisp`
+Cool gray tones and subtle blue accents, inspired by the Nebelung cat.\
+Also available for [VSCode](https://github.com/veschin/nibelung-theme-vscode) · [Neovim](https://github.com/veschin/nibelung-theme-vim) · [SDDM](https://github.com/veschin/nibelung-sddm-theme)
 
 ---
 

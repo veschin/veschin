@@ -75,6 +75,7 @@ AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.
 ### Stats
 
 <p align="center">
+  <img height="202" src="https://github-readme-stats-gilt-theta-88.vercel.app/api/top-langs/?username=veschin&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark&text_color=CED4DA&bg_color=212529&title_color=628ECE"/>
   <img src="https://streak-stats.demolab.com/?user=veschin&theme=dark&background=212529&ring=628ECE&fire=9BB1FF&currStreakLabel=CED4DA&sideLabels=628ECE&currStreakNum=9BB1FF&sideNums=CED4DA&dates=6C757D&stroke=343A40&border=00000000" alt="GitHub Streak"/>
 </p>
 <p align="center">

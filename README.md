@@ -74,8 +74,10 @@ AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veschin&show_icons=true&hide_border=true&bg_color=212529&text_color=CED4DA&icon_color=9BB1FF&title_color=628ECE" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veschin&layout=compact&hide_border=true&bg_color=212529&text_color=CED4DA&title_color=628ECE" height="165" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=veschin&theme=dark&background=212529&ring=628ECE&fire=9BB1FF&currStreakLabel=CED4DA&sideLabels=628ECE&currStreakNum=9BB1FF&sideNums=CED4DA&dates=6C757D&stroke=343A40&border=00000000" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veschin&bg_color=212529&color=CED4DA&line=628ECE&point=9BB1FF&area=true&area_color=2B375C&hide_border=true" width="90%" alt="Activity Graph"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:628ECE,100:2B375C&height=120&section=footer" width="100%"/>

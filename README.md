@@ -62,6 +62,12 @@ Cool gray tones and subtle blue accents, inspired by the Nebelung cat. `Emacs Li
 
 ---
 
+<p align="center">
+  <a href="https://github.com/veschin/datatwist">
+    <img src="https://raw.githubusercontent.com/veschin/datatwist/main/datatwist.png" width="480" alt="DataTwist"/>
+  </a>
+</p>
+
 **[datatwist](https://github.com/veschin/datatwist)** — A functional data processing language on Clojure/JVM.\
 Pipe-first semantics, pattern matching, nil-safe field access. `Clojure`
 

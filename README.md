@@ -50,7 +50,7 @@ Structured AI development pipeline enforcer. `Go`
 
 <p align="center">
   <a href="https://github.com/veschin/nibelung-theme">
-    <img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung_logo.png" width="140" alt="nibelung-theme"/>
+    <img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.png" width="480" alt="nibelung-theme"/>
   </a>
 </p>
 

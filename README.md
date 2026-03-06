@@ -13,14 +13,12 @@ Building CLI tools, DSLs, and educational content.
 
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Clojure-212529?style=for-the-badge&logo=clojure&logoColor=9BB1FF" height="36"/></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Go-212529?style=for-the-badge&logo=go&logoColor=9BB1FF" height="36"/></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Python-212529?style=for-the-badge&logo=python&logoColor=9BB1FF" height="36"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Emacs-212529?style=for-the-badge&logo=gnuemacs&logoColor=9BB1FF" height="36"/></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Linux-212529?style=for-the-badge&logo=linux&logoColor=9BB1FF" height="36"/></td>
-    <td align="center" width="96"><img src="https://img.shields.io/badge/Docker-212529?style=for-the-badge&logo=docker&logoColor=9BB1FF" height="36"/></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/clojure/9BB1FF" width="48" height="48"/><br><sub>Clojure</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/go/9BB1FF" width="48" height="48"/><br><sub>Go</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/python/9BB1FF" width="48" height="48"/><br><sub>Python</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/gnuemacs/9BB1FF" width="48" height="48"/><br><sub>Emacs</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/linux/9BB1FF" width="48" height="48"/><br><sub>Linux</sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/docker/9BB1FF" width="48" height="48"/><br><sub>Docker</sub></td>
   </tr>
 </table>
 

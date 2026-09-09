@@ -29,48 +29,72 @@ Linux (Arch btw). Doom Emacs.
 
 ### Projects
 
-<p align="center">
-  <a href="https://github.com/veschin/GoLeM">
-    <img src="https://raw.githubusercontent.com/veschin/GoLeM/main/GoLeM.png" width="480" alt="GoLeM"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/veschin/skilliosis/main/images/logo.webp" alt="skilliosis" width="100%">
+</td>
+<td width="60%">
+<strong><a href="https://github.com/veschin/skilliosis">skilliosis</a></strong> - a colony of agent skills for AI coding harnesses.
+<br><br>
+Open <code>SKILL.md</code> skills for Claude Code, Codex, DeepSeek Harness, opencode and OMP - mirrored from the author's daily <code>~/.omp</code>. Prognosis: benign.
+</td>
+</tr>
+</table>
 
-**[GoLeM](https://github.com/veschin/GoLeM)** - One wizard. Unlimited golems. Zero Anthropic API costs.\
-CLI for managing distributed Claude Code agents via Z.AI. `Go`
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/veschin/GoLeM/main/GoLeM.png" alt="GoLeM" width="100%">
+</td>
+<td width="60%">
+<strong><a href="https://github.com/veschin/GoLeM">GoLeM</a></strong> - One wizard. Unlimited golems. Zero Anthropic API costs.
+<br><br>
+CLI for managing distributed Claude Code agents via Z.AI. <code>Go</code>
+</td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/veschin/PTSD/main/ptsd.png" alt="PTSD" width="100%">
+</td>
+<td width="60%">
+<strong><a href="https://github.com/veschin/PTSD">PTSD</a></strong> - PRD -> Seed -> BDD -> Tests -> Implementation.
+<br><br>
+Structured AI development pipeline enforcer. <code>Go</code>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/veschin/PTSD">
-    <img src="https://raw.githubusercontent.com/veschin/PTSD/main/ptsd.png" width="480" alt="PTSD"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.png" alt="nibelung-theme" width="100%">
+</td>
+<td width="60%">
+<strong><a href="https://github.com/veschin/nibelung-theme">nibelung-theme</a></strong> - Minimalist Emacs color scheme.
+<br><br>
+Cool gray tones and subtle blue accents, inspired by the Nebelung cat.
+<br>
+Also available for <a href="https://github.com/veschin/nibelung-theme-vscode">VSCode</a> · <a href="https://github.com/veschin/nibelung-theme-vim">Neovim</a> · <a href="https://github.com/veschin/nibelung-sddm-theme">SDDM</a>
+</td>
+</tr>
+</table>
 
-**[PTSD](https://github.com/veschin/PTSD)** - PRD -> Seed -> BDD -> Tests -> Implementation.\
-Structured AI development pipeline enforcer. `Go`
-
----
-
-<p align="center">
-  <a href="https://github.com/veschin/nibelung-theme">
-    <img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.png" width="480" alt="nibelung-theme"/>
-  </a>
-</p>
-
-**[nibelung-theme](https://github.com/veschin/nibelung-theme)** - Minimalist Emacs color scheme.\
-Cool gray tones and subtle blue accents, inspired by the Nebelung cat.\
-Also available for [VSCode](https://github.com/veschin/nibelung-theme-vscode) · [Neovim](https://github.com/veschin/nibelung-theme-vim) · [SDDM](https://github.com/veschin/nibelung-sddm-theme)
-
----
-
-<p align="center">
-  <a href="https://github.com/veschin/datatwist">
-    <img src="https://raw.githubusercontent.com/veschin/datatwist/main/datatwist.png" width="480" alt="DataTwist"/>
-  </a>
-</p>
-
-**[datatwist](https://github.com/veschin/datatwist)** - A functional data processing language on Clojure/JVM.\
-Pipe-first semantics, pattern matching, nil-safe field access. `Clojure`
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/veschin/datatwist/main/datatwist.png" alt="DataTwist" width="100%">
+</td>
+<td width="60%">
+<strong><a href="https://github.com/veschin/datatwist">datatwist</a></strong> - A functional data processing language on Clojure/JVM.
+<br><br>
+Pipe-first semantics, pattern matching, nil-safe field access. <code>Clojure</code>
+</td>
+</tr>
+</table>
 
 ---
 

@@ -76,12 +76,17 @@ Also available for <a href="https://github.com/veschin/nibelung-theme-vscode">VS
 
 ---
 
-**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** - [D2](https://d2lang.com/) diagrams in Confluence 7.\
-A niche toolset for teams stuck on older Confluence (v7) who want modern diagram-as-code.\
-The server (Clojure) renders D2 markup via a VTL macro.\
-The browser extension adds a live D2 editor directly inside the Confluence page editor.\
-Write D2, hit render, get SVG. No PlantUML, no draw.io, no exporting images by hand.\
-Install: [Firefox](https://addons.mozilla.org/ru/firefox/addon/d2-lang-editor-for-confluence/) · [Chrome](https://chromewebstore.google.com/detail/d2-diagram-editor-for-con/jphdphgandbnobldmipnjimnndpdjdch)
+<img src="assets/d2friends.webp" alt="D2 & Friends" width="100%">
+
+A small toolset around [D2](https://d2lang.com/) for bringing diagram-as-code to Confluence 7.
+
+**[D2](https://d2lang.com/)** — the diagram scripting language that powers it all.
+
+**[d2-server](https://github.com/veschin/d2-server)** — a lightweight, cheap-to-host D2 rendering server. It also ships with a ready-to-use Confluence VTL macro, bringing native D2 diagram support directly into Confluence pages.
+
+**[d2-web-extension](https://github.com/veschin/d2-web-extension)** — a browser extension built on top of that integration. It adds a live D2 editor to the Confluence page editor, so diagrams can be written and previewed without leaving the page.
+
+**Extension:** [Firefox](https://addons.mozilla.org/ru/firefox/addon/d2-lang-editor-for-confluence/) · [Chrome](https://chromewebstore.google.com/detail/d2-diagram-editor-for-con/jphdphgandbnobldmipnjimnndpdjdch)
 
 ---
 

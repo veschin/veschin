@@ -27,7 +27,7 @@ Linux (Arch btw). Doom Emacs.
 
 ---
 
-### Projects
+### Active projects
 
 <table>
 <tr>
@@ -45,10 +45,55 @@ Open <code>SKILL.md</code> skills for Claude Code, Codex, DeepSeek Harness, open
 <table>
 <tr>
 <td width="40%">
-<img src="https://raw.githubusercontent.com/veschin/GoLeM/main/GoLeM.png" alt="GoLeM" width="100%">
+<img src="https://raw.githubusercontent.com/veschin/jevstice/main/docs/banner.webp" alt="jevstice" width="100%">
 </td>
 <td width="60%">
-<strong><a href="https://github.com/veschin/GoLeM">GoLeM</a></strong> - One wizard. Unlimited golems. Zero Anthropic API costs.
+<strong><a href="https://github.com/veschin/jevstice">jevstice</a></strong> - A reviewer at the tool boundary.
+<br><br>
+oh-my-pi extension that makes Jev check requirements, plan and acceptance before a tool call runs. <code>TypeScript</code>
+</td>
+</tr>
+</table>
+
+**[bidlobot](https://github.com/BYDLOKOD/bidlobot)** - Telegram bot for managing IT-community supergroups.
+<br><br>
+Stats, moderation, cleanup and mini-games in one Go binary on telego and bbolt. Dockerized. <code>Go</code>
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.png" alt="nibelung-theme" width="100%">
+</td>
+<td width="60%">
+<strong><a href="https://github.com/veschin/nibelung-theme">nibelung-theme</a></strong> - Minimalist Emacs color scheme.
+<br><br>
+Cool gray tones and subtle blue accents, inspired by the Nebelung cat.
+<br>
+Also available for <a href="https://github.com/veschin/nibelung-theme-vscode">VSCode</a> · <a href="https://github.com/veschin/nibelung-theme-vim">Neovim</a> · <a href="https://github.com/veschin/nibelung-sddm-theme">SDDM</a>
+</td>
+</tr>
+</table>
+
+---
+
+**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** - [D2](https://d2lang.com/) diagrams in Confluence 7.\
+A niche toolset for teams stuck on older Confluence (v7) who want modern diagram-as-code.\
+The server (Clojure) renders D2 markup via a VTL macro.\
+The browser extension adds a live D2 editor directly inside the Confluence page editor.\
+Write D2, hit render, get SVG. No PlantUML, no draw.io, no exporting images by hand.\
+Install: [Firefox](https://addons.mozilla.org/ru/firefox/addon/d2-lang-editor-for-confluence/) · [Chrome](https://chromewebstore.google.com/detail/d2-diagram-editor-for-con/jphdphgandbnobldmipnjimnndpdjdch)
+
+---
+
+### Archived projects
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/BYDLOKOD/GoLeM/main/GoLeM.png" alt="GoLeM" width="100%">
+</td>
+<td width="60%">
+<strong><a href="https://github.com/BYDLOKOD/GoLeM">GoLeM</a></strong> - One wizard. Unlimited golems. Zero Anthropic API costs.
 <br><br>
 CLI for managing distributed Claude Code agents via Z.AI. <code>Go</code>
 </td>
@@ -71,21 +116,6 @@ Structured AI development pipeline enforcer. <code>Go</code>
 <table>
 <tr>
 <td width="40%">
-<img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.png" alt="nibelung-theme" width="100%">
-</td>
-<td width="60%">
-<strong><a href="https://github.com/veschin/nibelung-theme">nibelung-theme</a></strong> - Minimalist Emacs color scheme.
-<br><br>
-Cool gray tones and subtle blue accents, inspired by the Nebelung cat.
-<br>
-Also available for <a href="https://github.com/veschin/nibelung-theme-vscode">VSCode</a> · <a href="https://github.com/veschin/nibelung-theme-vim">Neovim</a> · <a href="https://github.com/veschin/nibelung-sddm-theme">SDDM</a>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="40%">
 <img src="https://raw.githubusercontent.com/veschin/datatwist/main/datatwist.png" alt="DataTwist" width="100%">
 </td>
 <td width="60%">
@@ -98,14 +128,7 @@ Pipe-first semantics, pattern matching, nil-safe field access. <code>Clojure</co
 
 ---
 
-**[d2-server](https://github.com/veschin/d2-server)** + **[d2-web-extension](https://github.com/veschin/d2-web-extension)** - [D2](https://d2lang.com/) diagrams in Confluence 7.\
-A niche toolset for teams stuck on older Confluence (v7) who want modern diagram-as-code.\
-The server (Clojure) renders D2 markup via a VTL macro.\
-The browser extension adds a live D2 editor directly inside the Confluence page editor.\
-Write D2, hit render, get SVG. No PlantUML, no draw.io, no exporting images by hand.\
-Install: [Firefox](https://addons.mozilla.org/ru/firefox/addon/d2-lang-editor-for-confluence/) · [Chrome](https://chromewebstore.google.com/detail/d2-diagram-editor-for-con/jphdphgandbnobldmipnjimnndpdjdch)
-
----
+### Education
 
 **[workshops](https://github.com/veschin/workshops)** - Educational materials.\
 AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.

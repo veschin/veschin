@@ -29,8 +29,16 @@ Linux (Arch btw). Doom Emacs.
 
 ### Education
 
-**[workshops](https://github.com/veschin/workshops)** - Educational materials.\
-AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.
+<img src="https://raw.githubusercontent.com/veschin/workshops/master/workshops.webp" alt="workshops" width="100%">
+
+**[workshops](https://github.com/veschin/workshops)** — Courses, workshops, and notes collected over the years.
+
+- **[Clojure](https://github.com/veschin/workshops/tree/master/clojure) & [ClojureScript](https://github.com/veschin/workshops/tree/master/clojurescript)** — from language fundamentals to libraries, tooling, and practical development.
+- **[Linux](https://github.com/veschin/workshops/tree/master/linux) & [Emacs](https://github.com/veschin/workshops/tree/master/emacs)** — my setup, workflow, and the tools around it.
+- **[D2](https://github.com/veschin/workshops/tree/master/d2)** — diagram-as-code and working with technical diagrams.
+- **[AI](https://github.com/veschin/workshops/tree/master/ai)** — experiments, workflows, and practical notes on working with LLMs.
+
+Plus some assorted arcana accumulated along the way.
 
 ---
 
@@ -60,16 +68,28 @@ Stats, moderation, cleanup and mini-games in one Go binary on telego and bbolt. 
 
 ---
 
-<img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.png" alt="nibelung-theme" width="100%">
+<img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.webp" alt="nibelung-theme" width="100%">
 
-**[nibelung-theme](https://github.com/veschin/nibelung-theme)** - Minimalist Emacs color scheme.
+**[nibelung-theme](https://github.com/veschin/nibelung-theme)** — A minimalist gray & blue color theme inspired by the Nebelung cat.
 
-Cool gray tones and subtle blue accents, inspired by the Nebelung cat.
-Also available for [VSCode](https://github.com/veschin/nibelung-theme-vscode) · [Neovim](https://github.com/veschin/nibelung-theme-vim) · [SDDM](https://github.com/veschin/nibelung-sddm-theme)
+One palette, light & dark, across the whole dev environment:
+
+- **Emacs** — the original theme and source of truth.
+- **VS Code** — generated from the Nibelung palette.
+- **Zed** — generated editor theme.
+- **Neovim** — generated Vim/Neovim colorscheme.
+- **IntelliJ IDEA** — generated IDE theme.
+- **Alacritty** — matching terminal colors.
+- **Caelestia / Quickshell** — matching desktop shell colors.
+- **Pi** — theme for the AI coding agent.
+- **OMP** — matching terminal prompt theme.
+- **OpenCode** — theme for the AI coding agent.
+
+Everything is generated from the same palette, keeping the environment consistent from editor to terminal.
 
 ---
 
-<img src="assets/d2friends.webp" alt="D2 & Friends" width="100%">
+<img src="https://raw.githubusercontent.com/veschin/veschin/main/assets/d2friends.webp" alt="D2 & Friends" width="100%">
 
 A small toolset around [D2](https://d2lang.com/) for bringing diagram-as-code to Confluence 7.
 

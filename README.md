@@ -27,52 +27,45 @@ Linux (Arch btw). Doom Emacs.
 
 ---
 
+### Education
+
+**[workshops](https://github.com/veschin/workshops)** - Educational materials.\
+AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.
+
+---
+
 ### Active projects
 
-<table>
-<tr>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/veschin/skilliosis/main/images/logo.webp" alt="skilliosis" width="100%">
-</td>
-<td width="60%">
-<strong><a href="https://github.com/veschin/skilliosis">skilliosis</a></strong> - a colony of agent skills for AI coding harnesses.
-<br><br>
-Open <code>SKILL.md</code> skills for Claude Code, Codex, DeepSeek Harness, opencode and OMP - mirrored from the author's daily <code>~/.omp</code>. Prognosis: benign.
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://raw.githubusercontent.com/veschin/skilliosis/main/images/logo.webp" alt="skilliosis" width="60%">
+</p>
 
-<table>
-<tr>
-<td width="40%">
+**[skilliosis](https://github.com/veschin/skilliosis)** - a colony of agent skills for AI coding harnesses.
+
+Open `SKILL.md` skills for Claude Code, Codex, DeepSeek Harness, opencode and OMP - mirrored from the author's daily `~/.omp`. Prognosis: benign.
+
+---
+
 <img src="https://raw.githubusercontent.com/veschin/jevstice/main/docs/banner.webp" alt="jevstice" width="100%">
-</td>
-<td width="60%">
-<strong><a href="https://github.com/veschin/jevstice">jevstice</a></strong> - A reviewer at the tool boundary.
-<br><br>
-oh-my-pi extension that makes Jev check requirements, plan and acceptance before a tool call runs. <code>TypeScript</code>
-</td>
-</tr>
-</table>
+
+**[jevstice](https://github.com/veschin/jevstice)** - A reviewer at the tool boundary.
+
+oh-my-pi extension that makes Jev check requirements, plan and acceptance before a tool call runs. `TypeScript`
+
+---
 
 **[bidlobot](https://github.com/BYDLOKOD/bidlobot)** - Telegram bot for managing IT-community supergroups.
-<br><br>
-Stats, moderation, cleanup and mini-games in one Go binary on telego and bbolt. Dockerized. <code>Go</code>
 
-<table>
-<tr>
-<td width="40%">
+Stats, moderation, cleanup and mini-games in one Go binary on telego and bbolt. Dockerized. `Go`
+
+---
+
 <img src="https://raw.githubusercontent.com/veschin/nibelung-theme/main/nibelung.png" alt="nibelung-theme" width="100%">
-</td>
-<td width="60%">
-<strong><a href="https://github.com/veschin/nibelung-theme">nibelung-theme</a></strong> - Minimalist Emacs color scheme.
-<br><br>
+
+**[nibelung-theme](https://github.com/veschin/nibelung-theme)** - Minimalist Emacs color scheme.
+
 Cool gray tones and subtle blue accents, inspired by the Nebelung cat.
-<br>
-Also available for <a href="https://github.com/veschin/nibelung-theme-vscode">VSCode</a> · <a href="https://github.com/veschin/nibelung-theme-vim">Neovim</a> · <a href="https://github.com/veschin/nibelung-sddm-theme">SDDM</a>
-</td>
-</tr>
-</table>
+Also available for [VSCode](https://github.com/veschin/nibelung-theme-vscode) · [Neovim](https://github.com/veschin/nibelung-theme-vim) · [SDDM](https://github.com/veschin/nibelung-sddm-theme)
 
 ---
 
@@ -130,13 +123,6 @@ Pipe-first semantics, pattern matching, nil-safe field access. <code>Clojure</co
 </td>
 </tr>
 </table>
-
----
-
-### Education
-
-**[workshops](https://github.com/veschin/workshops)** - Educational materials.\
-AI, Clojure, ClojureScript, D2, Emacs, Linux, Figma.
 
 ---
 
